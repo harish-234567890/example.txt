@@ -1,0 +1,13 @@
+GitHub is used for showkage
+GitHub is a cloud-based platform where you can store, share, and work together with others to write code. Storing your code in a "repository" on GitHub allows you to: Showcase or share your work. Track and manage changes to your code over time.
+
+
+Nope. Like we mentioned above, different people and teams use GitHub for different project
+
+
+GitHub Apps are tools that extend GitHub's functionality. GitHub Apps can do things on GitHub like open issues, comment on pull requests, and manage projects. They can also do things outside of GitHub based on events that happen on GitHub. For example, a GitHub App can post on Slack when an issue is opened on GitHub.
+
+
+
+
+GitHub-hosted runners have a tools cache with pre-installed software, which includes Python and PyPy. You don't have to install anything!\
